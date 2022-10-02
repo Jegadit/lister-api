@@ -26,6 +26,3 @@ def details(name):
         'status' : status,
         'epstotal' : epstotal
     }
-
-if __name__ == '__main__':
-    app.run()
